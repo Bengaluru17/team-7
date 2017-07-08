@@ -93,7 +93,5 @@ $client->messages->create(
     ) 
 );
 
-vbcvgcgh
-
   
 
