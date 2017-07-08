@@ -54,32 +54,3 @@ $client->messages->create(
         'mediaUrl' => "https://c1.staticflickr.com/3/2899/14341091933_1e92e62d12_b.jpg",
     ) 
 );
-
-$sid = "ACed1fb52e5f6693fb3eba0934ce373be2";
-$token = "53fa3575380461ef3b4f96a4f2ddf76a";
-$client = new Client($sid, $token);
-
-#  repository 
-
-     
-<?php
-// Get the PHP helper library from twilio.com/docs/php/install
-require_once '/path/to/vendor/autoload.php'; // Loads the library
-use Twilio\Rest\Client;
-
-// Your Account Sid and Auth Token from twilio.com/user/account
-$sid = "ACed1fb52e5f6693fb3eba0934ce373be2";
-$token = "53fa3575380461ef3b4f96a4f2ddf76a";
-$client = new Client($sid, $token);
-
-$client->messages->create(
-    "+12027985815",
-    array(  
-        'from' => '+12027985815',
-        'body' => "This items are needed?",
-        'mediaUrl' => "https://c1.staticflickr.com/3/2899/14341091933_1e92e62d12_b.jpg",
-    ) 
-);
-
-
-
