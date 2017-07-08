@@ -11,6 +11,9 @@ Users:
 1)Admin
 2)Warden
 3)Kitchen staff
-4)login.html
 
-bootstrap added
+three dashboards 
+Admin
+Manager
+Incharge
+
