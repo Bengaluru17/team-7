@@ -7,7 +7,7 @@ Problem Statement
   
 Reaching Hand needs a technology platform which offers them an efficient mechanism for managing and tracking the inventory needs of their children's home, along with the attendance and financial records.
 
-// sennding sms using twiliousing php 
+// sennding sms using twilio using php 
 
 <?php
 // Get the PHP helper library from twilio.com/docs/php/install
