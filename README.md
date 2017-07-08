@@ -17,7 +17,4 @@ Admin
 Manager
 Incharge
 
-portal defined
-gggg
-bnvhjvhj
 
