@@ -46,7 +46,7 @@ ghfhgfhg
 </script>
 
 
-implentation using mysql to maintain a large database .
+implentation using mysql to maintain a large database .  
 
 
 
