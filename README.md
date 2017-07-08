@@ -67,6 +67,10 @@ $client->messages->create(
     ) 
 );
 
+$sid = "ACed1fb52e5f6693fb3eba0934ce373be2";
+$token = "53fa3575380461ef3b4f96a4f2ddf76a";
+$client = new Client($sid, $token);
+
 
 
 
