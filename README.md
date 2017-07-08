@@ -86,19 +86,15 @@ $client = new Client($sid, $token);
 
 $client->messages->create(
     "+12027985815",
-    array(
+    array(  
         'from' => '+12027985815',
         'body' => "This items are needed?",
         'mediaUrl' => "https://c1.staticflickr.com/3/2899/14341091933_1e92e62d12_b.jpg",
     ) 
 );
 
-vbcvgcgh
-# twilio account 
-code for good
-  
- bvfdftgyhuijnhbjg xc vhjb
-vfdfjhvkbkjlk'j
+cfhtgjykhujlk.nbvngjuio
+,.mnmvhjghk
 
-dgzser7869809[o;lk.j,nmbvcbfjys
-df
+
+
