@@ -49,7 +49,4 @@ $conn->close();
 
 
 
-
-//php end 
-
-
+end od php 
