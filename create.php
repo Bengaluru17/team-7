@@ -58,6 +58,12 @@ echo "New user added to the database OF OUR PROJECT ";
 
 
 
+
+
+
+
+
+
        
 
 
