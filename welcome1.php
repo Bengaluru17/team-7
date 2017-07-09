@@ -24,6 +24,8 @@ $rid=mysqli_fetch_assoc($result)["rid"];
 $sql = "SELECT rname FROM role WHERE rid = '$rid'";
 $result=mysqli_query($conn, $sql);
 
+	
+	
     // output data of each row
 	$role=mysqli_fetch_assoc($result)["rname"];
 	if($role=="admin")
