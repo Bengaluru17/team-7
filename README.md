@@ -10,7 +10,3 @@ Reaching Hand needs a technology platform which offers them an efficient mechani
 
 
 
-
-
-
-
