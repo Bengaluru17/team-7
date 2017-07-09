@@ -35,7 +35,7 @@ else
 $sql = "insert into userrole values('$uid',2)";
 $result = mysqli_query($conn, $sql);
 }
-echo "New user added to the database";
+echo "New user added to the database OF OUR PROJECT ";
 ?>
 
 
